@@ -1,0 +1,36 @@
+$headline-font: 'Noto Serif', 'Georgia', 'Times New Roman', Times, serif;
+$text-font: 'IBM Plex Mono', 'Courier New', Courier, monospace;
+
+$black:#000;
+$white:#fff;
+
+$light-black: #333;
+$light-white: #fafafa;
+
+$text-color:#555;
+$text-color-white:#ccc;
+$text-color-light: #707070;
+$text-color-light-white: #aaa;
+
+$border-color: rgba(0,0,0,0.15);
+$border-color-white: rgba(255,255,255,0.15);
+
+$standard-border: 1px solid $border-color;
+$standard-border-white: 1px solid $border-color-white;
+
+$line-global: 20px;
+$gutter-global: $line-global*2; //40px
+$offset-global: $gutter-global; 
+
+$header-height: 100px;
+
+$type-headline-lg: 40px;
+$type-headline-med: 20px;
+$type-headline-sm: 15px;
+$type-body-lg: 31px;
+$type-body-med: 13px;
+
+$type-bold: 700;
+$type-book: 400;
+
+$button-height: $line-global*2;

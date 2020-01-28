@@ -1,0 +1,11 @@
+/* Misc Pages */
+#page {
+    .page-content {
+        margin-top: $offset-global;
+    }
+
+    .page-inner {
+        max-width: 500px;
+        margin: 0 auto;
+    }
+}
